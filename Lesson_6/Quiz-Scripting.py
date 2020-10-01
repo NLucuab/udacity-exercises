@@ -12,7 +12,7 @@ message = "Hi {},\n\nThis is a reminder that you have {} assignments left to \
 submit before you can graduate. Your current grade is {} and can increase \
 to {} if you submit all assignments before the due date.\n\n"
 
-# write a for loop that iterates through each set of names, assignments, and grades to print each student's message
+# write a for loop that iteratcdes through each set of names, assignments, and grades to print each student's message
 # Ask for user input 3 times. Once for a list of names, once for a list of missing assignment counts, and once for a list of grades.
 # Use this input to create lists for names, assignments, and grades.
 #Use a loop to print the message for each student with the correct values.
